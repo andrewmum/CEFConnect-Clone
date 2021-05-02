@@ -1,0 +1,17 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#FF0000" transform="rotate(90.05158233642578 204.53909301757812,242.55015563964844) " id="svg_3" d="m105.039085,296.049242l99.500004,-106.998177l99.500004,106.998177l-199.000008,0z" stroke-opacity="null" stroke-width="0.001" fill="#A4FFFF"/>
+  <path stroke="#FF0000" transform="rotate(90.31366729736328 107.4946594238281,245.84339904785162) " id="svg_4" d="m12.994664,289.837746l94.500006,-87.988692l94.500006,87.988692l-189.000011,0z" stroke-opacity="null" stroke-width="0.001" fill="#A4FFFF"/>
+  <path d="m129,143.453125c0,0 -1,0 -2,0c0,0 -1,0 -2,0c0,0 -1,0 -1,0c-1,0 -1,0 -2,0c-2,0 -6,0 -7,0c-3,0 -4,0 -6,0c0,0 -1,1 -1,1c-1,0 -2,0 -3,0c-1,0 -2,0 -2,0c-1,0 -3.963837,1.11586 -7,2c-3.958679,1.152771 -7,2 -12,2c-1,0 -7,0 -10,0c-6,0 -9,0 -15,0c-3,0 -8.549156,-1.95517 -12,-3c-3.828369,-1.159134 -9,-1 -11,-1c0,0 -1,0 -1,0c0,0 -1.025826,0.679642 -3,1c-3.121445,0.506546 -7.315393,1.435318 -16,4c-2.14451,0.633301 -9,2 -9,2c-1,0 -2,-1 -2,0c0,1 1,0 3,0c3,0 4,-1 6,-2c0,0 1,0 1,0c0,0 1,-1 1,-1l1,0" id="svg_5" stroke-opacity="null" stroke-width="0.001" stroke="#FF0000" fill="none"/>
+  <path stroke="#FF0000" id="svg_8" d="m149.803578,140.445858l-132.803572,-1.445859l50.25,92.535l-41.875,106.465001l125.625,-0.995" opacity="0.36" stroke-opacity="null" stroke-width="0.001" fill="#B1FFFF"/>
+ </g>
+</svg>
